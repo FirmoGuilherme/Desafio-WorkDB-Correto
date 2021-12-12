@@ -3,5 +3,7 @@ Objetivo: Criar uma aplicação que permita a consulta da previsão do tempo de 
 
 # Programas Utilizados
 Java 11
+
 MySQL
+
 Postman
